@@ -1,5 +1,5 @@
 {
-  "name": "chat-example",
+  "name": "correos-chile-cli",
   "version": "1.0.0",
   "description": "Versión de comandos para consultas de correos de chile",
   "bin": {

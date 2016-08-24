@@ -18,6 +18,9 @@ $ correos --help
   Uso
     $ correos <[códigos]>
 
+  Opciones
+    --simple, -s        No incluye el detalle de registros
+
   Ejemplos
     $ correos RS458239104NL
     √   RS458239104NL

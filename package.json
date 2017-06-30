@@ -29,7 +29,7 @@
   "repository": "",
   "author": "Yerko Palma <yerko.palma@usach.cl>",
   "dependencies": {
-    "chalk": "^2.0.0",
+    "chalk": "^2.0.1",
     "cli-table": "^0.3.1",
     "correos-chile": "^1.2.3",
     "log-symbols": "^1.0.2",

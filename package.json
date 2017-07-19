@@ -32,7 +32,7 @@
     "chalk": "^1.1.3",
     "cli-table": "^0.3.1",
     "correos-chile": "^1.2.3",
-    "log-symbols": "^1.0.2",
+    "log-symbols": "^2.0.0",
     "meow": "^3.7.0"
   },
   "devDependencies": {

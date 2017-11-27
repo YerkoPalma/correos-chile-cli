@@ -36,7 +36,7 @@
     "meow": "^3.7.0"
   },
   "devDependencies": {
-    "ava": "^0.23.0",
+    "ava": "^0.24.0",
     "execa": "^0.8.0",
     "snazzy": "^7.0.0",
     "standard": "^10.0.0-beta.0"

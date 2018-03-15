@@ -37,7 +37,7 @@
   },
   "devDependencies": {
     "ava": "^0.22.0",    
-    "execa": "^0.9.0",
+    "execa": "^0.10.0",
     "snazzy": "^7.0.0",
     "standard": "^10.0.0-beta.0"
   }
